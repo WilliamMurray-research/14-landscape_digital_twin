@@ -149,3 +149,6 @@ Project **14.0** provides the formal substrate for those ideas:
 - the **connectivity metrics** (ECA, isoperimetric ratio) match the graph‑theoretic tools used in the RL corridor optimisation  
 - the **sensor integration layer** supports the data‑driven restoration workflows the paper describes.  
 
+---
+
+**Contributions are off**

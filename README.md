@@ -140,7 +140,7 @@ Documentation follows Australian Government Style Manual + AGLC (see **10.0 – 
 
 ## Relation to *Reclaiming the Scar*
 
-This project is directly aligned with my paper [*Reclaiming the Scar: Reinforcement Learning - Optimised Miyawaki Corridors for Defragmenting Logged Landscapes*](https://williammurrayrisk.substack.com/p/reclaiming-the-scar). That work develops interdisciplinary frameworks integrating restoration ecology, machine learning, and landscape topology to address road‑driven forest fragmentation.
+This project is directly aligned with my paper [*Reclaiming the Scar: Reinforcement Learning - Optimised Miyawaki Corridors for Defragmenting Logged Landscapes*](https://github.com/WilliamMurray-research/foundations/blob/main/systems/papers/reclaiming_the_scar.md). That work develops interdisciplinary frameworks integrating restoration ecology, machine learning, and landscape topology to address road‑driven forest fragmentation.
 
 Project **14.0** provides the formal substrate for those ideas:
 

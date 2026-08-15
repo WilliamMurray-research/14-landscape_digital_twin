@@ -1,5 +1,27 @@
+`2026-1018-D-read-001.md`  
+
+---
+
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-1018-D-read-001`  
 # Landscape Digital Twin  
-*A symbolic–geometric framework for modelling fragmented landscapes as a fiber‑bundle manifold stack, with a dynamic DSL for ecological entities, relations, and rewriting rules.*
+## A symbolic–geometric framework for modelling fragmented landscapes as a fiber‑bundle manifold stack, with a dynamic DSL for ecological entities, relations, and rewriting rules.  
+### Project    
+
+**Type**: read   
+**Classification**: D  
+**Version**: 0.1       
+
+William Murray  
+Systems Architect  
+15 August 2026  
+
+**Status**: Draft     
+
+**Scope**: A symbolic–geometric framework for constructing digital twins of fragmented landscapes using a fiber‑bundle manifold stack, integrating topographic geometry, ecological fibers, and dynamic rewriting rules. Models landscape processes as coupled geometric–symbolic systems where hydrology, vegetation, microclimate, wind, and disturbance layers evolve over a shared base manifold. Serves as the geometric substrate for restoration‑planning agents, enabling reasoning over connectivity, perturbation propagation, and ecological state transitions within a governed, metamorphic DSL.  
+
+**Primary Model / Scheme**: Fiber‑Bundle Landscape Scheme v0.1 — defines the base‑manifold construction, ecological fiber spaces Fi, projection maps πi, connection forms encoding inter‑layer dependencies, and symbolic rewriting rules across Prolog (invariants) and Lisp (macro‑driven metamorphism). Establishes the formal substrate for mixed‑layer ecological dynamics, patch‑graph evolution, corridor formation, and connectivity‑metric computation within a unified digital‑twin architecture.  
 
 ---
 

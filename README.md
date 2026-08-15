@@ -1,4 +1,4 @@
-# 14.0 – Landscape Digital Twin  
+# Landscape Digital Twin  
 *A symbolic–geometric framework for modelling fragmented landscapes as a fiber‑bundle manifold stack, with a dynamic DSL for ecological entities, relations, and rewriting rules.*
 
 ---

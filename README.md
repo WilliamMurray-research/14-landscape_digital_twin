@@ -1,10 +1,10 @@
-`2026-1018-D-read-001.md`  
+`2026-2002-D/README.md`  
 
 ---
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `2026-1018-D-read-001`  
+**Document Reference**: `2026-2002-D-read-000`  
 # Landscape Digital Twin  
 ## A symbolic–geometric framework for modelling fragmented landscapes as a fiber‑bundle manifold stack, with a dynamic DSL for ecological entities, relations, and rewriting rules.  
 ### Project    

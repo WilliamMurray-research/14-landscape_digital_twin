@@ -7,9 +7,8 @@
 **Document Reference**: `2026-2002-D-read-000`  
 # Landscape Digital Twin  
 ## A symbolic–geometric framework for modelling fragmented landscapes as a fiber‑bundle manifold stack, with a dynamic DSL for ecological entities, relations, and rewriting rules.  
-### Project    
+### Applied R&D      
 
-**Type**: read   
 **Classification**: D  
 **Version**: 0.1       
 
